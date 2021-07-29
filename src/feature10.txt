@@ -1,1 +1,2 @@
 feature_1.0 in rel_1.0
+feature1 of rel_1.2
