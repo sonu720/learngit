@@ -1,2 +1,7 @@
 feature_1.0 in rel_1.0
+<<<<<<< HEAD
 feature 1_rel_1.3
+=======
+feature1 of rel_1.2
+bug fix
+>>>>>>> 78a426b (bugfix)
